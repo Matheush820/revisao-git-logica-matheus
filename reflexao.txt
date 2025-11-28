@@ -24,7 +24,6 @@ A decomposição aparece diretamente na criação e manutenção de branches, po
 ANÁLISE DO git diff (Etapa C)
 O git diff mostrou que foram adicionadas novas linhas ao arquivo reflexao.txt contendo a reflexão sobre decomposição e branches. As linhas adicionadas apareceram com o símbolo “+”, indicando conteúdo presente apenas no branch desenvolvimento.
 
-
 RESUMO DO MERGE (Etapa D)
 As alterações feitas no branch desenvolvimento foram integradas à main por meio do comando git merge. Isso unificou as mudanças mantendo o histórico organizado e preservando a lógica de evolução do projeto.
 
