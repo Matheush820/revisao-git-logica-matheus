@@ -1,0 +1,33 @@
+1. Git e rastreabilidade
+A rastreabilidade é essencial no Git porque permite acompanhar todas as mudanças feitas no projeto, incluindo quem alterou, quando alterou e o que foi alterado. Isso mantém um histórico organizado e facilita o trabalho colaborativo, já que todos conseguem entender a evolução do código e recuperar versões anteriores sem perder informações importantes.
+
+2. Branches e decomposição
+A criação de branches se relaciona à decomposição porque divide o projeto em partes menores, independentes e mais fáceis de organizar. Cada branch representa uma funcionalidade ou correção separada, evitando interferências na main e ajudando no desenvolvimento modular.
+
+3. Registro de mudanças e sistematização lógica
+O comando git commit registra continuamente alterações, mantendo um rastreamento sistemático da evolução do código. Isso se conecta ao pensamento computacional porque organiza o progresso do projeto passo a passo, permitindo revisitar estados anteriores e garantindo uma evolução controlada.
+
+4. Dedução, indução e fundamentos lógicos
+O raciocínio indutivo parte de exemplos particulares e gera conclusões gerais, que são prováveis, mas não garantidas. O raciocínio dedutivo parte de premissas aceitas como verdadeiras e chega a conclusões garantidas, desde que as premissas sejam válidas. A lógica é essencial em computação, matemática e ciência, pois organiza hipóteses, modelos e decisões de forma coerente. Confundir dedução com generalização é um erro, pois dedução não depende de exemplos, mas sim de regras previamente estabelecidas.
+
+5. Lógica computacional e funcionamento do Git
+O comando git status faz uma análise lógica do estado atual do repositório, identificando o que mudou desde o último commit. O git diff compara versões diretamente e mostra diferenças reais sem fazer previsões ou inferências. O git log permite deduzir a evolução do projeto ao exibir uma sequência estruturada de commits. O Git funciona com base em lógica dedutiva, pois cada comando parte de premissas claras sobre o estado do repositório e gera resultados sempre previsíveis.
+
+REFLEXÃO PRINCIPAL (Etapa A)
+A lógica dedutiva aparece no uso cotidiano do Git porque cada comando segue uma regra clara e entrega resultados previsíveis. Ao executar commits, status ou log, seguimos uma sequência lógica que mostra exatamente como o projeto evolui. A rastreabilidade, o registro de mudanças e a organização em branches reforçam esse processo, permitindo acompanhar toda a evolução do código de maneira estruturada e confiável.
+
+
+REFLEXÃO DO BRANCH DESENVOLVIMENTO (Etapa B)
+A decomposição aparece diretamente na criação e manutenção de branches, pois cada branch separa o desenvolvimento em partes menores. Isso permite trabalhar em funcionalidades específicas sem interferir no restante do projeto, garantindo organização, clareza e fácil manutenção.
+
+
+ANÁLISE DO git diff (Etapa C)
+O git diff mostrou que foram adicionadas novas linhas ao arquivo reflexao.txt contendo a reflexão sobre decomposição e branches. As linhas adicionadas apareceram com o símbolo “+”, indicando conteúdo presente apenas no branch desenvolvimento.
+
+
+RESUMO DO MERGE (Etapa D)
+As alterações feitas no branch desenvolvimento foram integradas à main por meio do comando git merge. Isso unificou as mudanças mantendo o histórico organizado e preservando a lógica de evolução do projeto.
+
+
+RESUMO DO git log (Etapa E)
+O git log exibiu o histórico de commits em ordem cronológica inversa, mostrando a sequência lógica do desenvolvimento: criação do arquivo com a primeira reflexão, criação do branch desenvolvimento, adição da segunda reflexão, commit e merge na main. Isso demonstra claramente a ordem e a lógica das modificações realizadas.
